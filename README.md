@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my GitHub! I'm a passionate engineer with a background in  **Software development, Web Development**. I love working on projects that merge software and hardware, creating innovative solutions for real-world problems.
 
-## 🔧 Tech Stack & Skills
+# 🔧 Tech Stack & Skills
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
